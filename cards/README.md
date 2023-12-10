@@ -1,8 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I have completed my first screen design with React.
+I used the "Bulma" css library in this project.
+I continue to improve myself in React.
+Thanks.
+![Ekran görüntüsü 2023-12-11 023212](https://github.com/doganakbaba/Card-Project/assets/127808421/cc37dcbc-5417-4eec-b1de-6786d51a0cdf)
+![Ekran görüntüsü 2023-12-11 023223](https://github.com/doganakbaba/Card-Project/assets/127808421/8b3010d4-3233-4cc0-b8ed-757834c6608a)
+![Ekran görüntüsü 2023-12-11 023232](https://github.com/doganakbaba/Card-Project/assets/127808421/07416945-d8e1-45b4-833f-5b18b03eb04c)
