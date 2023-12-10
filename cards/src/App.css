@@ -1,0 +1,11 @@
+.image.is-4by3 img{
+  height: 450px;
+}
+
+.image.is-4by3{
+  padding-top: 450px;
+}
+
+.card .media:not(:last-child){
+  margin-bottom: 10px;
+}
