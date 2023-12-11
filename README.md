@@ -1,6 +1,7 @@
 I have completed my first screen design with React.
 I used the "Bulma" css library in this project.
-I continue to improve myself in React.
+I developed this website using simple React codes.
+I continue to improve myself in React and I will keep sharing new React projects.
 Thanks.
 
 
